@@ -1,6 +1,6 @@
 const EditEventPage = () => {
   return (
-    <h1>EditEventPage</h1>
+    <h1>Edit Event Page</h1>
   );
 };
 
